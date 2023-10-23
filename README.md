@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @augustofarias2
-- 👀 I’m interested in artificiall intelligence and engeneering. Also i want to work with AI and genomics and i want to help people with several pathologiies. 
-- 🌱 I’m currently learning artificial intelligence and industrial engeneering.
+- 👀 I’m interested on artificiall intelligence and engeenering. I want to work with AI and genomics and i want to help people with several pathologiies. 
+- 🌱 I’m currently learning artificial intelligence and industrial engeenering.
 - 💞️ I work in a precision medicine laboratory
 - 📫 How to reach me: on linkedin as @augustofarias
 
