@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @augustofarias2
+- 👋 Hi, I’m Augusto
 - 👀 I’m an artificial intelligence developer.
 - 💞️ I work in a precision medicine laboratory and genomics helping people with several pathologiies to have an precise report using AI.
 - 📫 How to reach me: on linkedin as [@augustofarias2](https://www.linkedin.com/in/augustofarias2/) and gmail as [augustofarias027@gmail.com](augustofarias027@gmail.com)
